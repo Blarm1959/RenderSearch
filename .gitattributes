@@ -1,0 +1,102 @@
+# ------------------------------------------------------------
+# Blarm Standard .gitattributes
+# ------------------------------------------------------------
+
+# ------------------------------------------------------------
+# Default text handling
+# ------------------------------------------------------------
+
+* text=auto
+
+# ------------------------------------------------------------
+# Windows scripts
+# ------------------------------------------------------------
+
+*.ps1      text eol=crlf
+*.psm1     text eol=crlf
+*.psd1     text eol=crlf
+*.cmd      text eol=crlf
+*.bat      text eol=crlf
+
+# ------------------------------------------------------------
+# Linux / Unix scripts and configuration
+# ------------------------------------------------------------
+
+*.sh       text eol=lf
+*.bash     text eol=lf
+*.conf     text eol=lf
+*.add      text eol=lf
+*.service  text eol=lf
+
+# ------------------------------------------------------------
+# Python
+# ------------------------------------------------------------
+
+*.py       text eol=lf
+
+# ------------------------------------------------------------
+# Web / source / configuration files
+# ------------------------------------------------------------
+
+*.html     text eol=lf
+*.css      text eol=lf
+*.js       text eol=lf
+*.mjs      text eol=lf
+*.json     text eol=lf
+*.md       text eol=lf
+*.xml      text eol=lf
+*.txt      text eol=lf
+*.csv      text eol=lf
+*.yml      text eol=lf
+*.yaml     text eol=lf
+*.ini      text eol=lf
+*.cfg      text eol=lf
+
+# ------------------------------------------------------------
+# Visual Studio / .NET
+# ------------------------------------------------------------
+
+*.sln      text eol=crlf
+*.slnx     text eol=crlf
+*.csproj   text eol=crlf
+*.props    text eol=crlf
+*.targets  text eol=crlf
+*.config   text eol=crlf
+
+# ------------------------------------------------------------
+# Images
+# ------------------------------------------------------------
+
+*.png      binary
+*.jpg      binary
+*.jpeg     binary
+*.gif      binary
+*.bmp      binary
+*.ico      binary
+*.svg      text eol=lf
+
+# ------------------------------------------------------------
+# Documents
+# ------------------------------------------------------------
+
+*.pdf      binary
+*.docx     binary
+*.xlsx     binary
+*.pptx     binary
+
+# ------------------------------------------------------------
+# Archives
+# ------------------------------------------------------------
+
+*.zip      binary
+*.7z       binary
+*.gz       binary
+*.tar      binary
+
+# ------------------------------------------------------------
+# Databases
+# ------------------------------------------------------------
+
+*.db       binary
+*.sqlite   binary
+*.sqlite3  binary
