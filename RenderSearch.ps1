@@ -2,12 +2,14 @@
 param(
     [string]$Folder,
     [string[]]$Terms = @(
-        'render','rendering','rendered','k rend','k-rend','weber','parex','monocouche',
-        'silicone','through colour','through color','colour','color','finish','ral',
-        'white','cream','ivory','limestone','chalk','stone','sand','buff','beige','grey','gray'
+        'k rend','k-rend','krend','weber','parex','silver pearl','pearl',
+        'render','rendering','rendered','monocouche','silicone','through colour','through color',
+        'off-white','off white','colour','color','finish','ral',
+        'white','cream','ivory','limestone','chalk','buff','beige'
     ),
     [string]$OutputFile,
-    [int]$ContextCharacters = 220
+    [int]$ContextCharacters = 220,
+    [string[]]$PriorityTerms = @('k rend','k-rend','krend','weber','parex','silver pearl','pearl')
 )
 
 Set-StrictMode -Version Latest
@@ -165,6 +167,16 @@ function Get-MatchesWithContext {
     return $found
 }
 
+
+function Get-SkipReasonCategory {
+    param([string]$Message)
+
+    if ($Message -like 'PDF support requires pdftotext.exe*') { return 'PDF extractor unavailable' }
+    if ($Message -like '*pdftotext.exe returned exit code*') { return 'PDF extraction failed' }
+    if ($Message -like '*COM*' -or $Message -like '*Word*' -or $Message -like '*Excel*') { return 'Office extraction failed' }
+    return 'Unreadable/extraction error'
+}
+
 if ([string]::IsNullOrWhiteSpace($Folder)) { $Folder = Resolve-DefaultSearchFolder }
 $Folder = [IO.Path]::GetFullPath($Folder)
 if (-not (Test-Path -LiteralPath $Folder -PathType Container)) { throw "Search folder does not exist: $Folder" }
@@ -174,7 +186,11 @@ if ([string]::IsNullOrWhiteSpace($OutputFile)) {
 }
 
 $extensions = @('.pdf','.doc','.docx','.xls','.xlsx','.txt','.csv','.log','.md','.xml','.json')
-$files = @(Get-ChildItem -LiteralPath $Folder -File -Recurse -ErrorAction SilentlyContinue | Where-Object { $extensions -contains $_.Extension.ToLowerInvariant() })
+$files = @(Get-ChildItem -LiteralPath $Folder -File -Recurse -ErrorAction SilentlyContinue | Where-Object {
+    $relativePath = $_.FullName.Substring($Folder.Length).TrimStart('\')
+    $pathParts = $relativePath -split '[\\/]'
+    ('VATReclaim' -notin $pathParts) -and ($extensions -contains $_.Extension.ToLowerInvariant())
+})
 $results = [System.Collections.Generic.List[object]]::new()
 $errors = [System.Collections.Generic.List[object]]::new()
 
@@ -213,7 +229,7 @@ foreach ($file in $files) {
         if ($matches.Count -gt 0) { Write-Status ("[FOUND] {0} ({1} match{2})" -f $file.FullName, $matches.Count, $(if($matches.Count -eq 1){''}else{'es'})) Green }
     }
     catch {
-        $errors.Add([pscustomobject]@{ Path = $file.FullName; Error = $_.Exception.Message })
+        $errors.Add([pscustomobject]@{ Path = $file.FullName; Type = $file.Extension.ToLowerInvariant(); Reason = (Get-SkipReasonCategory -Message $_.Exception.Message); Error = $_.Exception.Message })
         Write-Status "[SKIP] $($file.FullName) - $($_.Exception.Message)" DarkYellow
     }
 }
@@ -228,6 +244,26 @@ $report = [System.Text.StringBuilder]::new()
 [void]$report.AppendLine(('Skipped:   {0}' -f $errors.Count))
 [void]$report.AppendLine('')
 
+
+$priorityResults = @($results | Where-Object {
+    $resultTerm = $_.Term
+    $PriorityTerms | Where-Object { $resultTerm -ieq $_ } | Select-Object -First 1
+})
+
+if ($priorityResults.Count -gt 0) {
+    [void]$report.AppendLine(('=' * 90))
+    [void]$report.AppendLine('HIGH PRIORITY MANUFACTURER MATCHES')
+    [void]$report.AppendLine(('=' * 90))
+    foreach ($group in ($priorityResults | Group-Object Path)) {
+        [void]$report.AppendLine($group.Name)
+        foreach ($item in $group.Group) {
+            [void]$report.AppendLine(('TERM: {0}' -f $item.Term))
+            [void]$report.AppendLine($item.Context)
+            [void]$report.AppendLine('')
+        }
+    }
+}
+
 foreach ($group in ($results | Group-Object Path)) {
     [void]$report.AppendLine(('=' * 90))
     [void]$report.AppendLine($group.Name)
@@ -241,6 +277,20 @@ foreach ($group in ($results | Group-Object Path)) {
 
 if ($errors.Count -gt 0) {
     [void]$report.AppendLine(('=' * 90))
+    [void]$report.AppendLine('SKIPPED FILE SUMMARY')
+    [void]$report.AppendLine(('=' * 90))
+    [void]$report.AppendLine('By file type:')
+    foreach ($group in ($errors | Group-Object Type | Sort-Object @{Expression='Count'; Descending=$true}, @{Expression='Name'; Descending=$false})) {
+        [void]$report.AppendLine(('  {0,-8} {1,5}' -f $group.Name, $group.Count))
+    }
+    [void]$report.AppendLine('')
+    [void]$report.AppendLine('By reason:')
+    foreach ($group in ($errors | Group-Object Reason | Sort-Object @{Expression='Count'; Descending=$true}, @{Expression='Name'; Descending=$false})) {
+        [void]$report.AppendLine(('  {0,-32} {1,5}' -f $group.Name, $group.Count))
+    }
+    [void]$report.AppendLine('')
+
+    [void]$report.AppendLine(('=' * 90))
     [void]$report.AppendLine('FILES THAT COULD NOT BE READ')
     [void]$report.AppendLine(('=' * 90))
     foreach ($item in $errors) { [void]$report.AppendLine("$($item.Path)`r`n  $($item.Error)`r`n") }
@@ -250,6 +300,17 @@ if ($errors.Count -gt 0) {
 
 Write-Status ''
 Write-Status "Search complete: $($results.Count) matches in $((($results | Select-Object -ExpandProperty Path -Unique) | Measure-Object).Count) files." Cyan
+Write-Status "Priority manufacturer matches: $($priorityResults.Count)"
 Write-Status "Skipped/unreadable files: $($errors.Count)"
+if ($errors.Count -gt 0) {
+    Write-Status 'Skipped by file type:' DarkYellow
+    foreach ($group in ($errors | Group-Object Type | Sort-Object @{Expression='Count'; Descending=$true}, @{Expression='Name'; Descending=$false})) {
+        Write-Status ("  {0,-8} {1,5}" -f $group.Name, $group.Count) DarkYellow
+    }
+    Write-Status 'Skipped by reason:' DarkYellow
+    foreach ($group in ($errors | Group-Object Reason | Sort-Object @{Expression='Count'; Descending=$true}, @{Expression='Name'; Descending=$false})) {
+        Write-Status ("  {0,-32} {1,5}" -f $group.Name, $group.Count) DarkYellow
+    }
+}
 Write-Status "Results: $OutputFile" Cyan
 Write-Status ''

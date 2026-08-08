@@ -1,0 +1,1076 @@
+RenderSearch Results
+Generated: 08/08/2026 21:36:44
+Folder:    E:\OneDrive\WDLBlandings\ReBuild
+Files:     242
+Matches:   150
+Skipped:   171
+
+==========================================================================================
+HIGH PRIORITY MANUFACTURER MATCHES
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\SAP\UValueCalculations.xlsx
+TERM: k rend
+(B5)-0.6*B5*B5,3) 0.71699999999999997 22 31 1/(1/C25+C22) 0.1181977191994424 21 W/mK Thickness mm m2K/W Internal Surface ( Rsi ) Plaster Skim Plasterboard Plaster Dabs Aerated Blocks Insulation (K108) Medium Density Block Render External Surface ( Rse ) Conductivity Thermal Resistance Total Thickness Total Thicknes Total Resistance U-Value (uncorrected) RT = Rsi+R+Rse U=1/RT W/m2K U-Value (corrected) U-Value Air Space Yorkstone Total Uo 0.05+
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\BuildersNotes.docx
+==========================================================================================
+TERM: render
+Stone (Front and Back): Tyne Valley Buff Random Walling - brickservices.com: Brick Services Ltd, Wellington House, Wellington Road, Dunston, NE11 9JL Roof: Tiles - Spanish grey slate Trusses – Use attic trusses Render: Off-white – exact colour to be decided Windows and Patio Doors: uPVC Front Door: Wood with panel on one side Side Door (from Utility): Wood with glass panel at top Garage Door: Wood with glass panels at top – 2/3 + 1/3
+
+TERM: off-white
+Stone (Front and Back): Tyne Valley Buff Random Walling - brickservices.com: Brick Services Ltd, Wellington House, Wellington Road, Dunston, NE11 9JL Roof: Tiles - Spanish grey slate Trusses – Use attic trusses Render: Off-white – exact colour to be decided Windows and Patio Doors: uPVC Front Door: Wood with panel on one side Side Door (from Utility): Wood with glass panel at top Garage Door: Wood with glass panels at top – 2/3 + 1/3 opening (s
+
+TERM: colour
+Back): Tyne Valley Buff Random Walling - brickservices.com: Brick Services Ltd, Wellington House, Wellington Road, Dunston, NE11 9JL Roof: Tiles - Spanish grey slate Trusses – Use attic trusses Render: Off-white – exact colour to be decided Windows and Patio Doors: uPVC Front Door: Wood with panel on one side Side Door (from Utility): Wood with glass panel at top Garage Door: Wood with glass panels at top – 2/3 + 1/3 opening (similar to curre
+
+TERM: ral
+ainting: External painting cost Internal painting cost – separate cost to external (possibly not required) Bedrooms: Fitted wardrobes where shown on plans Loft: Loft hatch on landing with drop down ladder Boarded to central space Light and 2 double electric power sockets Tails put up for future radiators, electric sockets and lighting Do not include: Flooring for Hall, Lounge, Kitchen/Dinner, Snug (Downstairs) Flooring for Bedroom, Stairs,
+
+TERM: white
+ne (Front and Back): Tyne Valley Buff Random Walling - brickservices.com: Brick Services Ltd, Wellington House, Wellington Road, Dunston, NE11 9JL Roof: Tiles - Spanish grey slate Trusses – Use attic trusses Render: Off-white – exact colour to be decided Windows and Patio Doors: uPVC Front Door: Wood with panel on one side Side Door (from Utility): Wood with glass panel at top Garage Door: Wood with glass panels at top – 2/3 + 1/3 opening (s
+
+TERM: buff
+Stone (Front and Back): Tyne Valley Buff Random Walling - brickservices.com: Brick Services Ltd, Wellington House, Wellington Road, Dunston, NE11 9JL Roof: Tiles - Spanish grey slate Trusses – Use attic trusses Render: Off-white – exact colour to be decided Wi
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Rob.txt
+==========================================================================================
+TERM: ral
+e electric connection move and gas disconnection as soon as the palnning department give us the go ahead in Feb I will also send this to you in an email with attachments for all the Building Regulations drawings, Structural Engineers calculations and SAP information You should have most of this already but I wanted to make sure you have the latest copies all in one place If there are any problems with this or you require further informatio
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Certificates\Accoya\BlandingsAccoyaWarranty.docx
+==========================================================================================
+TERM: color
+te of Warranty ( Worldwide e xc luding United States of America and Canada) 07.04.11 Accoya ® wood - Certificate of Warranty ( Worldwide e xc luding United States of America and Canada) 07.04.11 trabeum , Corriolus versicolor, Serpula lacrymans and shall not include common surface mold , mildew or any other organism, bacteria or fungi); or the maximum swell or shrinkage in one direction is greater than 2.5% during normal use 2 ; and ® in bot
+
+TERM: ral
+protect the Accoya wood from further damage. ® 5.3 Accoya must be stored, installed and/or used in accordance with Accsys Technologies’ written instructions and all certification bodies and building codes adopted by federal, central, state or local governments or government agencies and applicable to the installation. Failure to install ® Accoya wood in accordance with Accsys Technologies’ printed instructions will invalidate this Warranty
+
+TERM: ral
+he Accoya wood from further damage. ® 5.3 Accoya must be stored, installed and/or used in accordance with Accsys Technologies’ written instructions and all certification bodies and building codes adopted by federal, central, state or local governments or government agencies and applicable to the installation. Failure to install ® Accoya wood in accordance with Accsys Technologies’ printed instructions will invalidate this Warranty. ® 5.4 T
+
+TERM: ral
+or use of the Accoya wood, including but not limited to any damage where Accsys Technologies’ written instructions have not been followed; ® misuse, neglect, alteration or abuse of the Accoya wood; settlement or structural movement and/or movement of materials to which the ® Accoya wood is attached; damage from incorrect design of any structure or where the maximum designed wind loads are exceeded for any structure; acts of God, such as h
+
+TERM: ral
+hed; damage from incorrect design of any structure or where the maximum designed wind loads are exceeded for any structure; acts of God, such as hurricane, tornado, hail, earthquake, flood or other severe weather or natural phenomena; and any cause other than manufacturing defects attributable to Accsys Technologies. Geographical coverage ® This Warranty applies to Accoya wood purchased from Accsys Technologies in all countries world-wide,
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Construction\Cost.xlsx
+==========================================================================================
+TERM: render
+tering / down pipes External doors and windows Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / staircase Plaster boarding / plaster finishes Render finishes Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen appliances Extractor fan
+
+TERM: render
+ceilings / wood work Skirting boards architraves Supply all scaffolding and plant Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate Additional cost Attic trusses 2 RENDER Off-White – exact colour to be decided 3 Window and patio doors upvc 4 Front Door Wood with panel on one side 5 Side Door [ from utility ] Wood with glass panel at top 6 Garage Door Wood with glass panel at top – 2/3 +
+
+TERM: off-white
+s / wood work Skirting boards architraves Supply all scaffolding and plant Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate Additional cost Attic trusses 2 RENDER Off-White – exact colour to be decided 3 Window and patio doors upvc 4 Front Door Wood with panel on one side 5 Side Door [ from utility ] Wood with glass panel at top 6 Garage Door Wood with glass panel at top – 2/3 + 1/3 Openin
+
+TERM: colour
+ting boards architraves Supply all scaffolding and plant Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate Additional cost Attic trusses 2 RENDER Off-White – exact colour to be decided 3 Window and patio doors upvc 4 Front Door Wood with panel on one side 5 Side Door [ from utility ] Wood with glass panel at top 6 Garage Door Wood with glass panel at top – 2/3 + 1/3 Opening similar to cu
+
+TERM: finish
+rds / guttering / down pipes External doors and windows Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / staircase Plaster boarding / plaster finishes Render finishes Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen appliances Extr
+
+TERM: finish
+/ down pipes External doors and windows Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / staircase Plaster boarding / plaster finishes Render finishes Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen appliances Extractor fans / det
+
+TERM: finish
+tchen appliances Extractor fans / detectors / out door lights New distribution board with protective Devices earth bonding where required All works carried out in accordance with BS7671 Certificate on completion Surface finishes Ceramic tiles for bathroom / en- suite / WC Allow 50 sq m Fitting Only Decoration Paint works to all walls / ceilings / wood work Skirting boards architraves Supply all scaffolding and plant Revised tender as clients
+
+TERM: ral
+Internal painting cost – separate to external (Customer not required – if required the separate quote) 19 Bedrooms Fitted wardrobes where shown on plans 20 Loft Loft hatch on landing with drop down ladder Boarded to central space Light and 2 double electric power sockets Tails put up for future radiators 21 DO Not include Flooring for hall, lounge, kitchen/dinner/snug Bedrooms/stairs/landing Kitchen cupboards/worktops/appliances Wood burne
+
+TERM: white
+wood work Skirting boards architraves Supply all scaffolding and plant Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate Additional cost Attic trusses 2 RENDER Off-White – exact colour to be decided 3 Window and patio doors upvc 4 Front Door Wood with panel on one side 5 Side Door [ from utility ] Wood with glass panel at top 6 Garage Door Wood with glass panel at top – 2/3 + 1/3 Openin
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\DocumentsList.docx
+==========================================================================================
+TERM: ral
+Architects ( Doonans ) Drawings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 1180 C4 Rev A, 1180 Construction Notes Rev A Structural Engineers (BMC) Drawings and Calculations: 134-20-001_03, 134-20-002_02, 134-20-01-Structural Calculation Pack SAP Rating and AD Part L1A 2014 Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architect
+
+TERM: ral
+ings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 1180 C4 Rev A, 1180 Construction Notes Rev A Structural Engineers (BMC) Drawings and Calculations: 134-20-001_03, 134-20-002_02, 134-20-01-Structural Calculation Pack SAP Rating and AD Part L1A 2014 Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architects ( Doonans ) Drawings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 11
+
+TERM: ral
+Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architects ( Doonans ) Drawings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 1180 C4 Rev A, 1180 Construction Notes Rev A Structural Engineers (BMC) Drawings and Calculations: 134-20-001_03, 134-20-002_02, 134-20-01-Structural Calculation Pack SAP Rating and AD Part L1A 2014 Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architect
+
+TERM: ral
+ings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 1180 C4 Rev A, 1180 Construction Notes Rev A Structural Engineers (BMC) Drawings and Calculations: 134-20-001_03, 134-20-002_02, 134-20-01-Structural Calculation Pack SAP Rating and AD Part L1A 2014 Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architects ( Doonans ) Drawings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 11
+
+TERM: ral
+Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architects ( Doonans ) Drawings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 1180 C4 Rev A, 1180 Construction Notes Rev A Structural Engineers (BMC) Drawings and Calculations: 134-20-001_03, 134-20-002_02, 134-20-01-Structural Calculation Pack SAP Rating and AD Part L1A 2014 Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architect
+
+TERM: ral
+ings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 1180 C4 Rev A, 1180 Construction Notes Rev A Structural Engineers (BMC) Drawings and Calculations: 134-20-001_03, 134-20-002_02, 134-20-01-Structural Calculation Pack SAP Rating and AD Part L1A 2014 Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architects ( Doonans ) Drawings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 11
+
+TERM: ral
+Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architects ( Doonans ) Drawings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 1180 C4 Rev A, 1180 Construction Notes Rev A Structural Engineers (BMC) Drawings and Calculations: 134-20-001_03, 134-20-002_02, 134-20-01-Structural Calculation Pack SAP Rating and AD Part L1A 2014 Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architect
+
+TERM: ral
+ings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 1180 C4 Rev A, 1180 Construction Notes Rev A Structural Engineers (BMC) Drawings and Calculations: 134-20-001_03, 134-20-002_02, 134-20-01-Structural Calculation Pack SAP Rating and AD Part L1A 2014 Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architects ( Doonans ) Drawings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 11
+
+TERM: ral
+Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architects ( Doonans ) Drawings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 1180 C4 Rev A, 1180 Construction Notes Rev A Structural Engineers (BMC) Drawings and Calculations: 134-20-001_03, 134-20-002_02, 134-20-01-Structural Calculation Pack SAP Rating and AD Part L1A 2014 Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architect
+
+TERM: ral
+ings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 1180 C4 Rev A, 1180 Construction Notes Rev A Structural Engineers (BMC) Drawings and Calculations: 134-20-001_03, 134-20-002_02, 134-20-01-Structural Calculation Pack SAP Rating and AD Part L1A 2014 Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architects ( Doonans ) Drawings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 11
+
+TERM: ral
+Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report Architects ( Doonans ) Drawings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 1180 C4 Rev A, 1180 Construction Notes Rev A Structural Engineers (BMC) Drawings and Calculations: 134-20-001_03, 134-20-002_02, 134-20-01-Structural Calculation Pack SAP Rating and AD Part L1A 2014 Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report
+
+TERM: ral
+ings and Construction Notes: 1180 C1 Rev B, 1180 C2 Rev A, 1180 C3 Rev A, 1180 C4 Rev A, 1180 Construction Notes Rev A Structural Engineers (BMC) Drawings and Calculations: 134-20-001_03, 134-20-002_02, 134-20-01-Structural Calculation Pack SAP Rating and AD Part L1A 2014 Compliancy Assessment Report (Watt): AD L1A 2014 Compliancy Report
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor1_Claire\Dispute.docx
+==========================================================================================
+TERM: ral
+ng Query incorrect blocks used as thermal ones specified Overpaid by large amount for work done compared to quotatio n Site very unclean and untidy Rubbish not disposed off Workmen arriving and then disappearing for several hours at a time leaving labourer standing around doing nothing Width of cavity s/be 110mm Missing foundations for porch Query internal dimensions ( e.g. lounge width, kitchen/utility) Date work started: July / 2021 Grou
+
+TERM: ral
+d this and builder ( RC ) said that they would be doing them later on when digger man came back 17/08/22 – Discussion between RC and building inspector regarding whether floor slab needed to be 150mm thick as per structural engineers (BMC) drawings. Inspector contacted Doonans architects and asked and Kevin Doonan (KD) referred to BMC who agreed that 100mm would be sufficient and BMC produced new drawings with slab at 100mm thick Late Oct/
+
+TERM: ral
+f of slab’. I was concerned as to why the internal foundation had not been dug before laying the slab as shown on BMC drawings and told RC that I wasn’t sure this was correct. Told RC that I would need to get new structural engineer’s drawings to check this being acceptable. Asked RC for name of structural engineer that he had worked with (to obtain an impartial opinion). RC gave Steve Watson (SW) of 3eConsult. 10/09/2021 – Warranty inspec
+
+TERM: ral
+e laying the slab as shown on BMC drawings and told RC that I wasn’t sure this was correct. Told RC that I would need to get new structural engineer’s drawings to check this being acceptable. Asked RC for name of structural engineer that he had worked with (to obtain an impartial opinion). RC gave Steve Watson (SW) of 3eConsult. 10/09/2021 – Warranty inspection identifies : Cavity wall ties not at correct centres at door. Cavity wall Insul
+
+TERM: ral
+nd. Neighbours commented to me that this was happening frequently. On visiting the site there was very little progress 16/12/2021 - IR text showing video of additional wall ties around door. IR then stopped work for several weeks holiday over the holiday period and into Jan 23/12/2021 – After several weeks’ time delay SW email to state ‘ I would always recommend that the internal loadbearing walls are built off a foundation rather than the
+
+TERM: ral
+the site there was very little progress 16/12/2021 - IR text showing video of additional wall ties around door. IR then stopped work for several weeks holiday over the holiday period and into Jan 23/12/2021 – After several weeks’ time delay SW email to state ‘ I would always recommend that the internal loadbearing walls are built off a foundation rather than the floo r’ Phoned SW to discuss email and he verbally said ‘ That if it was his
+
+TERM: ral
+ff of the slab. They replied ‘ we would not be able to justify supporting the internal load bearing wall on the ground bearing slab. We would advise supporting the internal walls on foundations which are cast on the natural bearing strata.’ 06/01/202 2 – Contacted Kate Wilson (KW) architect at Doonans to request a site visit to look at the situation. 10/01/2022 – Emailed building control, to as whether they had discussed with RC that layin
+
+TERM: ral
+lapping over and re-adhering, we specified double sided tape for this. Thresholds are missing on doors, stone will need to be removed for them to be placed in, you explained they have only just been delivered. After several attempts managed to contact RC to arrange for a meeting on site on 18/01/2021 10:00 to discuss the problem areas. 18/01/202 2 – Contacted RC to say we may be a few minutes later due to traffic. He said he had a issue wi
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor1_Claire\OverPayment\QuotationFromBuilder.docx
+==========================================================================================
+TERM: render
+ernal doors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stair case £18,420.00 Plaster boarding / plaster finishes Render finishes £12 ,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16 ,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen
+
+TERM: render
+and plant £4 ,980.00 TOTA L COST EXCLUDING VAT £169,409.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Gara
+
+TERM: off-white
+ant £4 ,980.00 TOTA L COST EXCLUDING VAT £169,409.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wo
+
+TERM: colour
+A L COST EXCLUDING VAT £169,409.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wood with glass p
+
+TERM: finish
+00.00 External doors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stair case £18,420.00 Plaster boarding / plaster finishes Render finishes £12 ,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16 ,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches /
+
+TERM: finish
+oors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stair case £18,420.00 Plaster boarding / plaster finishes Render finishes £12 ,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16 ,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen applian
+
+TERM: finish
+n appliances Extractor fans / detectors / out door lights New distribution board with protective Devices earth bonding where required All works carried out in accordance with BS7671 Certificate on completion £18 ,000.00 finishes Ceramic tiles for bathroom / en- suite / WC Allow 50 sq m Fitting Only £1,750 Surface .00 Decoration Paint works to all walls / ceilings / wood work Skirting boards architraves £ 0 ,000.00 Supply all scaffolding and p
+
+TERM: ral
+ting cost – separate to external (Customer not required – if required the n separate quote ) 19 Bedrooms Fitted wardrobes where shown on plans £2,800.00 20 Loft Loft hatch on landing with drop down ladder Boarded to central space Light and 2 double electric power sockets Tails put up for future radiators £980.00 21 DO Not include Flooring for hall, lounge, kitchen/dinner/snug Bedrooms/stairs/landing Kitchen cupboards/worktops/appliances Wo
+
+TERM: white
+£4 ,980.00 TOTA L COST EXCLUDING VAT £169,409.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wo
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor1_Claire\OverPayment\Solicitor2_Julie\InvoicePayments2.xlsx
+==========================================================================================
+TERM: finish
+oice 1133 - Shed digout Lower ground at start Deductions included in above invoices Total 'Changes' Contract Price Weeks Owing Before completion Rent @ 750.00 per month, Storage @ 120.00 per month Av. Payment Days Start Finish Additional Costs For Us Per Week Rental and Storage Total Rent and Storage Additions (agreed) included in above invoices Up To Corrections Total After Corrections Total Agreed - Use of rectangular (20.00) instead of spe
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor2_Julie\InvoicePayments2.xlsx
+==========================================================================================
+TERM: finish
+oice 1133 - Shed digout Lower ground at start Deductions included in above invoices Total 'Changes' Contract Price Weeks Owing Before completion Rent @ 750.00 per month, Storage @ 120.00 per month Av. Payment Days Start Finish Additional Costs For Us Per Week Rental and Storage Total Rent and Storage Additions (agreed) included in above invoices Up To Corrections Total After Corrections Total Agreed - Use of rectangular (20.00) instead of spe
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor2_Julie\InvoicePayments3.xlsx
+==========================================================================================
+TERM: finish
+oice 1133 - Shed digout Lower ground at start Deductions included in above invoices Total 'Changes' Contract Price Weeks Owing Before completion Rent @ 750.00 per month, Storage @ 120.00 per month Av. Payment Days Start Finish Additional Costs For Us Per Week Rental and Storage Total Rent and Storage Additions (agreed) included in above invoices Up To Corrections Total After Corrections Total Agreed - Use of rectangular (20.00) instead of spe
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor2_Julie\InvoicePayments4.xlsx
+==========================================================================================
+TERM: finish
+Up To Corrections After Corrections Total Invoiced Invoice 1133 - Shed digout Lower ground at start Total 'Changes' Contract Price Weeks Owing Before completion Rent @ 750.00 per month, Storage @ 120.00 per month Start Finish Additional Costs For Us Per Week Rental and Storage Total Rent and Storage Up To Corrections Total After Corrections Total Agreed - Use of rectangular (20.00) instead of specified L-shape (60.00) quoins (100 @ 40.00) No
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor2_Julie\Progress_20230305.xlsx
+==========================================================================================
+TERM: render
+tering / down pipes External doors and windows Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / staircase Plaster boarding / plaster finishes Render finishes Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen appliances Extractor fan
+
+TERM: render
+coration Paint works to all walls / ceilings / wood work Skirting boards architraves Supply all scaffolding and plant Revised tender as clients requested specification 1 Roof Confirmation Additional cost Attic trusses 2 RENDER T.B.C Off-White – exact colour to be decided 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side 5 Side Door [ from utility ] Wood with glass panel at top 6 Garage Door Wood with glass pa
+
+TERM: render
+ons on bay window damaged and are to be replaced. Wall ties on bay window are misssing. Deposite of £8,000 paid with remaining £16,000 to be paid (Now using wood instead of UPVC) Some plasterboarding completed upstairs. Render on East and West wall not started Not Included/Required No longer available as project has overrrun, builder seeking alternatives that give similar SAP values Not done and not sure what requires painting Slate delivered
+
+TERM: off-white
+t works to all walls / ceilings / wood work Skirting boards architraves Supply all scaffolding and plant Revised tender as clients requested specification 1 Roof Confirmation Additional cost Attic trusses 2 RENDER T.B.C Off-White – exact colour to be decided 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side 5 Side Door [ from utility ] Wood with glass panel at top 6 Garage Door Wood with glass panel at top – 2/3
+
+TERM: colour
+ls / ceilings / wood work Skirting boards architraves Supply all scaffolding and plant Revised tender as clients requested specification 1 Roof Confirmation Additional cost Attic trusses 2 RENDER T.B.C Off-White – exact colour to be decided 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side 5 Side Door [ from utility ] Wood with glass panel at top 6 Garage Door Wood with glass panel at top – 2/3 + 1/3 Opening
+
+TERM: colour
+tween Kitchen/Dinner and snug was blocks instead of studwork, wall beteeen Utility and Hall not done Nothing done Not Required Scaffolding up and being used Slate delivered several weeks ago (one pallet of four is wrong colour), but not fitted Attic trusses fitted. Wrong configuration for additional stairs, but now corrected Now using wood wondows and patio doors as cost price was cheaper Ordered with wood windows Not ordered yet Not done Som
+
+TERM: colour
+cted Now using wood wondows and patio doors as cost price was cheaper Ordered with wood windows Not ordered yet Not done Some upstairs electrics first fix done., but nothing else Used - South/West corner has a different colour mortar to rest of house. Bay widow not complete as awaiting fitting of damaged sill and mullions. Rectangular quoins used instead of specified L-Shape as agreed to use rectangular as they woould be cheaper (100 Required
+
+TERM: colour
+Required No longer available as project has overrrun, builder seeking alternatives that give similar SAP values Not done and not sure what requires painting Slate delivered several weeks ago (one pallet of four is wrong colour - builder has agreed to arrange exchange). Waterproof liner fitted. Slates nott fitted. Some facias have been fitted but no down pipes Wet UFH downstairs fitted with manifold. Awaiting screeding on top. Upstairs radiato
+
+TERM: finish
+rds / guttering / down pipes External doors and windows Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / staircase Plaster boarding / plaster finishes Render finishes Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen appliances Extr
+
+TERM: finish
+/ down pipes External doors and windows Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / staircase Plaster boarding / plaster finishes Render finishes Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen appliances Extractor fans / det
+
+TERM: finish
+tchen appliances Extractor fans / detectors / out door lights New distribution board with protective Devices earth bonding where required All works carried out in accordance with BS7671 Certificate on completion Surface finishes Ceramic tiles for bathroom / en- suite / WC Allow 50 sq m Fitting Only Decoration Paint works to all walls / ceilings / wood work Skirting boards architraves Supply all scaffolding and plant Revised tender as clients
+
+TERM: ral
+Internal painting cost – separate to external (Customer not required – if required the separate quote) 19 Bedrooms Fitted wardrobes where shown on plans 20 Loft Loft hatch on landing with drop down ladder Boarded to central space Light and 2 double electric power sockets Tails put up for future radiators 21 DO Not include Flooring for hall, lounge, kitchen/dinner/snug Bedrooms/stairs/landing Kitchen cupboards/worktops/appliances Wood burne
+
+TERM: ral
+Upstairs studwork done, Downstairs wall between Kitchen/Dinner and snug was blocks instead of studwork, wall beteeen Utility and Hall not done Nothing done Not Required Scaffolding up and being used Slate delivered several weeks ago (one pallet of four is wrong colour), but not fitted Attic trusses fitted. Wrong configuration for additional stairs, but now corrected Now using wood wondows and patio doors as cost price was cheaper Ordered
+
+TERM: ral
+ast and West wall not started Not Included/Required No longer available as project has overrrun, builder seeking alternatives that give similar SAP values Not done and not sure what requires painting Slate delivered several weeks ago (one pallet of four is wrong colour - builder has agreed to arrange exchange). Waterproof liner fitted. Slates nott fitted. Some facias have been fitted but no down pipes Wet UFH downstairs fitted with manifol
+
+TERM: white
+rks to all walls / ceilings / wood work Skirting boards architraves Supply all scaffolding and plant Revised tender as clients requested specification 1 Roof Confirmation Additional cost Attic trusses 2 RENDER T.B.C Off-White – exact colour to be decided 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side 5 Side Door [ from utility ] Wood with glass panel at top 6 Garage Door Wood with glass panel at top – 2/3
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\DRC\20240306\Notes.docx
+==========================================================================================
+TERM: render
+Loft Loft Insulation Loft Ladder Loft Boarding Fitted Wardrobes Main Bedroom Bedroom 1 Stair Rails, etc Side Windows x2 – Occoya packing and sprayed Render around quoins Architrave and Skirting Plastering ? Kitchen Fit Utility Fit Tiling Bathroom En-suite We can supply tiles if given quantity to order, but need them fitted Guttering and Sold Pipes, etc Outside Taps East Si
+
+TERM: ral
+Bosch ?) Hot Water Cylinder (2 x Coils allowed for by electrician) Radiators Wood Burner We will organize Plastering required Painting We have a decorator starting soon Doors not on site 2 x French Doors Front Door Balmoral not wanting to take any responsibility for possible wrong sizing on openings Bay Windows Not manufactured Need to be ordered and fitted once bat window build is complete Garage Door Not manufactured Was to be part of jo
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Estimates\Estimates.xls
+==========================================================================================
+TERM: finish
+515.03 Plastering & Insulation 15302.59 6276.53 21579.12 Electrics 2nd Fix 1122.59 1813.35 2935.94 Wall and floor tiling 2379.49 263.28 2642.77 2nd Fix Carpentry 2773.45 1434.91 4208.36 Electrical 4915.74 3152.8 8068.54 Finishes 1405.84 1274.4 2680.24 Heating 4186.25 4257.72 8443.97 Foul / Stormwater Drainage 729.01 1912.5 938.5 3580.01 Plumbing First Fix 2912.08 3516.26 6428.34 Kitchen 1485 1485 Plumbing Sanitary Wares 1292.62 2564.78 3857.4
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Estimates\Builder\RDCConstruction\CompareQuotes.xlsx
+==========================================================================================
+TERM: render
+m Demolitions Removal of walls / kitchen units /bathroom suite / fittings Excavations / foundations / drainage To external work as plans Facia boards / guttering / down pipes Architraves / fitting kitchen units / stairs Render finishes En-suites / cloakroom Installation of cables / t.v points Led lights / pendants / switches / kitchen appliances Extractor fans / detectors / out door lights New distribution board with protective Devices earth
+
+TERM: render
+ks to all walls / ceilings / wood work Skirting boards architraves Supply all scaffolding and plant Architraves / fitting kitchen units / staircase Revised tender as clients requested specification 1 Roof Confirmation 2 RENDER 5 Side Door [ from utility ] 6 Garage Door Wood with glass panel at top – 2/3 + 1/3 13 Bathroom and En-suite 14Tiled floor 15 Utility / Lobby Tiled floor Plumbing / Gas /Electrics / for boiler washing machine 18 Paintin
+
+TERM: render
+rear elevations artstone quoins 24 Air Permeability test certificate 10 Worcester –bosch greenstar 30kw boiler 8 Outside Electric 2Sockets one on each side of property 1. Attic Trusses 1. Roof Tiles - Recliamed Extra 2. Render 3. Windows and patio dors UVPC 4. Front Door Wood with panel on one side 7. Outside Taps 8. Outside Electric Sockets 11. Plumbing - copper pipe 12. Sanitary Ware Mid Range 13. Bathroom and En-Suite - Supply and install
+
+TERM: off-white
+slate 9 Heating Downstairs – wet UFH Upstairs – Radiators ( except bathroom and ensuite with Tails put up for future radiators 24 Demolitions 11 plumbing copper pipework T.B.C Confirmation 3 Window and patio doors upvc Off-White – exact colour to be decided Additional cost Attic trusses Tiles- reclaimed grey slate 4 Front Door Wood with panel on one side Wood with glass panel at top Opening similar to current garage door 7 Outside Tap 2 taps on
+
+TERM: colour
+ownstairs – wet UFH Upstairs – Radiators ( except bathroom and ensuite with Tails put up for future radiators 24 Demolitions 11 plumbing copper pipework T.B.C Confirmation 3 Window and patio doors upvc Off-White – exact colour to be decided Additional cost Attic trusses Tiles- reclaimed grey slate 4 Front Door Wood with panel on one side Wood with glass panel at top Opening similar to current garage door 7 Outside Tap 2 taps one on each side
+
+TERM: finish
+truction timber rafters / roof coverings Reclaimed slate Lead valley gutters External doors and windows Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Plaster boarding / plaster finishes Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom Demolitions Removal of walls / kitchen units /bathroom suite / fittings Excavations / foundations / drainage To external work as plans Facia b
+
+TERM: finish
+itions Removal of walls / kitchen units /bathroom suite / fittings Excavations / foundations / drainage To external work as plans Facia boards / guttering / down pipes Architraves / fitting kitchen units / stairs Render finishes En-suites / cloakroom Installation of cables / t.v points Led lights / pendants / switches / kitchen appliances Extractor fans / detectors / out door lights New distribution board with protective Devices earth bonding
+
+TERM: finish
+tchen appliances Extractor fans / detectors / out door lights New distribution board with protective Devices earth bonding where required All works carried out in accordance with BS7671 Certificate on completion Surface finishes Ceramic tiles / bathroom / en- suites / utility / Kitchen Paint works to all walls / ceilings / wood work Skirting boards architraves Supply all scaffolding and plant Architraves / fitting kitchen units / staircase Re
+
+TERM: ral
+ty / Lobby Tiled floor Plumbing / Gas /Electrics / for boiler washing machine 18 Painting Internal painting cost – separate cost to external 19 Bedrooms 20 Loft Loft hatch on landing with drop down ladder Boarded to central space Light and 2 double electric power sockets 21 DO Not include Flooring for hall, lounge, kitchen/dinner/snug Bedrooms/stairs/landing Kitchen cupboards/worktops/appliances Wood burner 22 Construction Stonework tyne v
+
+TERM: white
+te 9 Heating Downstairs – wet UFH Upstairs – Radiators ( except bathroom and ensuite with Tails put up for future radiators 24 Demolitions 11 plumbing copper pipework T.B.C Confirmation 3 Window and patio doors upvc Off-White – exact colour to be decided Additional cost Attic trusses Tiles- reclaimed grey slate 4 Front Door Wood with panel on one side Wood with glass panel at top Opening similar to current garage door 7 Outside Tap 2 taps on
+
+TERM: buff
+Light and 2 double electric power sockets 21 DO Not include Flooring for hall, lounge, kitchen/dinner/snug Bedrooms/stairs/landing Kitchen cupboards/worktops/appliances Wood burner 22 Construction Stonework tyne valley buff elevations front 23 Construction 25 ALL SERVICES TO BE REMOVED BEFORE DEMOLITION WORKS 26 Asbestos report to be in place before Works commence Tiles- Spanish grey slate 9 Heating Downstairs – wet UFH Upstairs – Radiator
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Estimates\Builder\RDCConstruction\20200517\Estimate.xlsx
+==========================================================================================
+TERM: render
+hen Decoration Paint works to all walls / ceilings / wood work To external work as plans Excavations / foundations / drainage / fittings Facia boards / guttering / down pipes Architraves / fitting kitchen units / stairs Render finishes En-suites / cloakroom Certificate on completion Skirting boards architraves Supply all scaffolding and plant
+
+TERM: finish
+uction Roof construction timber rafters / roof coverings Lead valley gutters External doors and windows Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Plaster boarding / plaster finishes Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen appliances Extractor fans / detectors / out door ligh
+
+TERM: finish
+/ pendants / switches / kitchen appliances Extractor fans / detectors / out door lights New distribution board with protective Devices earth bonding where required All works carried out in accordance with BS7671 Surface finishes Ceramic tiles / bathroom / en- suites / utility / Kitchen Decoration Paint works to all walls / ceilings / wood work To external work as plans Excavations / foundations / drainage / fittings Facia boards / guttering /
+
+TERM: finish
+oration Paint works to all walls / ceilings / wood work To external work as plans Excavations / foundations / drainage / fittings Facia boards / guttering / down pipes Architraves / fitting kitchen units / stairs Render finishes En-suites / cloakroom Certificate on completion Skirting boards architraves Supply all scaffolding and plant
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Estimates\Builder\RDCConstruction\20200517\GREENCROFT AVENUE CORBRIDGE.doc
+==========================================================================================
+TERM: render
+External doors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stairs £18,420.00 Plaster boarding / plaster finishes Render finishes £12,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen ap
+
+TERM: render
+0 Supply all scaffolding and plant £4,980.00 TOTAL COST EXCLUDING VAT £189,913.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- Spanish grey slate Additional cost Attic trusses £3,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garag
+
+TERM: off-white
+y all scaffolding and plant £4,980.00 TOTAL COST EXCLUDING VAT £189,913.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- Spanish grey slate Additional cost Attic trusses £3,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Woo
+
+TERM: colour
+and plant £4,980.00 TOTAL COST EXCLUDING VAT £189,913.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- Spanish grey slate Additional cost Attic trusses £3,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wood with glass pa
+
+TERM: finish
+32,800.00 External doors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stairs £18,420.00 Plaster boarding / plaster finishes Render finishes £12,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches / k
+
+TERM: finish
+al doors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stairs £18,420.00 Plaster boarding / plaster finishes Render finishes £12,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen appliance
+
+TERM: finish
+ances Extractor fans / detectors / out door lights New distribution board with protective Devices earth bonding where required All works carried out in accordance with BS7671 Certificate on completion £18,000.00 Surface finishes Ceramic tiles / bathroom / en- suites / utility / Kitchen £7,454.00 Decoration Paint works to all walls / ceilings / wood work Skirting boards architraves £9,000.00 Supply all scaffolding and plant £4,980.00 TOTAL COS
+
+TERM: ral
+40.00 Internal painting cost – separate cost to external ( possibly not required ) £9,915.00 19 Bedrooms Fitted wardrobes where shown on plans £2,800.00 20 Loft Loft hatch on landing with drop down ladder Boarded to central space Light and 2 double electric power sockets Tails put up for future radiators 21 DO Not include Flooring for hall, lounge, kitchen/dinner/snug Bedrooms/stairs/landing Kitchen cupboards/worktops/appliances Wood burne
+
+TERM: white
+l scaffolding and plant £4,980.00 TOTAL COST EXCLUDING VAT £189,913.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- Spanish grey slate Additional cost Attic trusses £3,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Woo
+
+TERM: buff
+sockets Tails put up for future radiators 21 DO Not include Flooring for hall, lounge, kitchen/dinner/snug Bedrooms/stairs/landing Kitchen cupboards/worktops/appliances Wood burner 22 Construction Stonework tyne valley buff elevations front And rear difference cost to brick £7,600.00 23 Construction Front and rear elevations artstone quoins £3,450.00 24 Demolitions Demolition work to existing house £17,159.00 25 ALL SERVICES TO BE REMOVED
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Estimates\Builder\RDCConstruction\20210118\RDC Construction letter head 1.docx
+==========================================================================================
+TERM: render
+ernal doors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stair case £18,420.00 Plaster boarding / plaster finishes Render finishes £12 ,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16 ,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen
+
+TERM: render
+folding and plant £4 ,980.00 TOTA L COST EXCLUDING VAT £18 2,113.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed grey slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Gara
+
+TERM: off-white
+and plant £4 ,980.00 TOTA L COST EXCLUDING VAT £18 2,113.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed grey slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wo
+
+TERM: colour
+.00 TOTA L COST EXCLUDING VAT £18 2,113.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed grey slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wood with glass p
+
+TERM: finish
+00.00 External doors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stair case £18,420.00 Plaster boarding / plaster finishes Render finishes £12 ,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16 ,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches /
+
+TERM: finish
+oors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stair case £18,420.00 Plaster boarding / plaster finishes Render finishes £12 ,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16 ,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen applian
+
+TERM: finish
+nces Extractor fans / detectors / out door lights New distribution board with protective Devices earth bonding where required All works carried out in accordance with BS7671 Certificate on completion £18 ,000.00 Surface finishes Ceramic tiles / bathroom / en- suites / utility / Kitchen £7 ,454.00 Decoration Paint works to all walls / ceilings / wood work Skirting boards architraves £ 0 ,000.00 Supply all scaffolding and plant £4 ,980.00 TOTA
+
+TERM: ral
+0.00 Internal painting cost – separate cost to external ( possibly not required ) £9 ,915.00 19 Bedrooms Fitted wardrobes where shown on plans £2,800.00 20 Loft Loft hatch on landing with drop down ladder Boarded to central space Light and 2 double electric power sockets Tails put up for future radiators £980.00 21 DO Not include Flooring for hall, lounge, kitchen/dinner/snug Bedrooms/stairs/landing Kitchen cupboards/worktops/appliances Wo
+
+TERM: white
+plant £4 ,980.00 TOTA L COST EXCLUDING VAT £18 2,113.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed grey slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wo
+
+TERM: buff
+Tails put up for future radiators £980.00 21 DO Not include Flooring for hall, lounge, kitchen/dinner/snug Bedrooms/stairs/landing Kitchen cupboards/worktops/appliances Wood burner 22 Construction Stonework tyne valley buff elevations front And rear difference cost to brick £7,600.00 23 Construction Front and rear elevations artstone quoins £3,450.00 24 Air Permeability test certificate £500.00 25 ALL SERVICES TO BE REMOVED BEFORE DEMOLITI
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Estimates\Builder\RDCConstruction\20210118\RDC Construction letter head 1.txt
+==========================================================================================
+TERM: render
+ternal doors and windows �24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / staircase �18,420.00 Plaster boarding / plaster finishes Render finishes �12,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom �16,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen ap
+
+TERM: render
+scaffolding and plant �4,980.00 TOTAL COST EXCLUDING VAT �182,113.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed grey slate �1,900.00 Additional cost Attic trusses �3,680.00 2 RENDER Off-White � exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Gara
+
+TERM: off-white
+lding and plant �4,980.00 TOTAL COST EXCLUDING VAT �182,113.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed grey slate �1,900.00 Additional cost Attic trusses �3,680.00 2 RENDER Off-White � exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wo
+
+TERM: colour
+,980.00 TOTAL COST EXCLUDING VAT �182,113.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed grey slate �1,900.00 Additional cost Attic trusses �3,680.00 2 RENDER Off-White � exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wood with glass p
+
+TERM: finish
+800.00 External doors and windows �24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / staircase �18,420.00 Plaster boarding / plaster finishes Render finishes �12,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom �16,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches / k
+
+TERM: finish
+doors and windows �24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / staircase �18,420.00 Plaster boarding / plaster finishes Render finishes �12,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom �16,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen appliance
+
+TERM: finish
+ances Extractor fans / detectors / out door lights New distribution board with protective Devices earth bonding where required All works carried out in accordance with BS7671 Certificate on completion �18,000.00 Surface finishes Ceramic tiles / bathroom / en- suites / utility / Kitchen �7,454.00 Decoration Paint works to all walls / ceilings / wood work Skirting boards architraves �0,000.00 Supply all scaffolding and plant �4,980.00 TOTAL COS
+
+TERM: ral
+40.00 Internal painting cost � separate cost to external ( possibly not required ) �9,915.00 19 Bedrooms Fitted wardrobes where shown on plans �2,800.00 20 Loft Loft hatch on landing with drop down ladder Boarded to central space Light and 2 double electric power sockets Tails put up for future radiators �980.00 21 DO Not include Flooring for hall, lounge, kitchen/dinner/snug Bedrooms/stairs/landing Kitchen cupboards/worktops/appliances Wo
+
+TERM: white
+g and plant �4,980.00 TOTAL COST EXCLUDING VAT �182,113.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed grey slate �1,900.00 Additional cost Attic trusses �3,680.00 2 RENDER Off-White � exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wo
+
+TERM: buff
+Tails put up for future radiators �980.00 21 DO Not include Flooring for hall, lounge, kitchen/dinner/snug Bedrooms/stairs/landing Kitchen cupboards/worktops/appliances Wood burner 22 Construction Stonework tyne valley buff elevations front And rear difference cost to brick �7,600.00 23 Construction Front and rear elevations artstone quoins �3,450.00 24 Air Permeability test certificate �500.00 25 ALL SERVICES TO BE REMOVED BEFORE DEMOLITI
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Estimates\Builder\RDCConstruction\20210129\RDC Construction_Blandings_20210129.docx
+==========================================================================================
+TERM: render
+ernal doors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stair case £18,420.00 Plaster boarding / plaster finishes Render finishes £12 ,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16 ,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen
+
+TERM: render
+nd plant £4 ,980.00 TOTA L COST EXCLUDING VAT £ 169,409 .00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Gara
+
+TERM: off-white
+t £4 ,980.00 TOTA L COST EXCLUDING VAT £ 169,409 .00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wo
+
+TERM: colour
+L COST EXCLUDING VAT £ 169,409 .00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wood with glass p
+
+TERM: finish
+00.00 External doors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stair case £18,420.00 Plaster boarding / plaster finishes Render finishes £12 ,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16 ,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches /
+
+TERM: finish
+oors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stair case £18,420.00 Plaster boarding / plaster finishes Render finishes £12 ,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16 ,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen applian
+
+TERM: finish
+nces Extractor fans / detectors / out door lights New distribution board with protective Devices earth bonding where required All works carried out in accordance with BS7671 Certificate on completion £18 ,000.00 Surface finishes Ceramic tiles for bathroom / en - suite / WC Allow 50 sq m Fitting Only £ 1,750 .00 Decoration Paint works to all walls / ceilings / wood work Skirting boards architraves £ 0 ,000.00 Supply all scaffolding and plant £
+
+TERM: ral
+ting cost – separate to external (Customer not required – if required the n separate quote ) 19 Bedrooms Fitted wardrobes where shown on plans £2,800.00 20 Loft Loft hatch on landing with drop down ladder Boarded to central space Light and 2 double electric power sockets Tails put up for future radiators £980.00 21 DO Not include Flooring for hall, lounge, kitchen/dinner/snug Bedrooms/stairs/landing Kitchen cupboards/worktops/appliances Wo
+
+TERM: white
+,980.00 TOTA L COST EXCLUDING VAT £ 169,409 .00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wo
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Estimates\Builder\RDCConstruction\20210221\RDC Construction_Blandings_202101293148.docx
+==========================================================================================
+TERM: render
+ernal doors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stair case £18,420.00 Plaster boarding / plaster finishes Render finishes £12 ,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16 ,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen
+
+TERM: render
+and plant £4 ,980.00 TOTA L COST EXCLUDING VAT £169,409.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Gara
+
+TERM: off-white
+ant £4 ,980.00 TOTA L COST EXCLUDING VAT £169,409.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wo
+
+TERM: colour
+A L COST EXCLUDING VAT £169,409.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wood with glass p
+
+TERM: finish
+00.00 External doors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stair case £18,420.00 Plaster boarding / plaster finishes Render finishes £12 ,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16 ,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches /
+
+TERM: finish
+oors and windows £24,160.00 Carpentry / joinery / stud walls / floors Insulations / internal doors / skirting boards Architraves / fitting kitchen units / stair case £18,420.00 Plaster boarding / plaster finishes Render finishes £12 ,174.00 Heating / new boiler / radiators / Plumbing / kitchen / utility / bathroom En-suites / cloakroom £16 ,200.00 Electrics Installation of cables / t.v points Led lights / pendants / switches / kitchen applian
+
+TERM: finish
+n appliances Extractor fans / detectors / out door lights New distribution board with protective Devices earth bonding where required All works carried out in accordance with BS7671 Certificate on completion £18 ,000.00 finishes Ceramic tiles for bathroom / en- suite / WC Allow 50 sq m Fitting Only £1,750 Surface .00 Decoration Paint works to all walls / ceilings / wood work Skirting boards architraves £ 0 ,000.00 Supply all scaffolding and p
+
+TERM: ral
+ting cost – separate to external (Customer not required – if required the n separate quote ) 19 Bedrooms Fitted wardrobes where shown on plans £2,800.00 20 Loft Loft hatch on landing with drop down ladder Boarded to central space Light and 2 double electric power sockets Tails put up for future radiators £980.00 21 DO Not include Flooring for hall, lounge, kitchen/dinner/snug Bedrooms/stairs/landing Kitchen cupboards/worktops/appliances Wo
+
+TERM: white
+£4 ,980.00 TOTA L COST EXCLUDING VAT £169,409.00 Revised tender as clients requested specification 1 Roof Confirmation Tiles- reclaimed purple welsh slate £1,900.00 Additional cost Attic trusses £ 3 ,680.00 2 RENDER Off-White – exact colour to be decided T.B.C 3 Window and patio doors upvc Confirmation 4 Front Door Wood with panel on one side Confirmation 5 Side Door [ from utility ] Wood with glass panel at top Confirmation 6 Garage Door Wo
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\Estimates\Jewsons\BuildAviator\Blandings.xlsx
+==========================================================================================
+TERM: finish
+tels Above Ground Floors Roof Structure Roof Tiling Flat Roof Flat Roof Covering Guttering 1st Fix Carpentry Plumbing 1st Fix Electrics 1st Fix Alterations Plastering Plumbing 2nd Fix Electrics 2nd Fix 2nd Fix Carpentry Finishes Foul / Stormwater Drainage Pathways Driveway Landscaping & Fencing Kitchen Decorating Laying Of Services Professional Services Other Provisional Sums Plant Materials Labour Other Total Builder Customer % Mark Up Stage
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\MarketPlace\SanitaryWare.xlsx
+==========================================================================================
+TERM: white
+ND(B5*0.2,2) 9.33 B5+C5 56 2 32.82 6.56 39.380000000000003 SUM(D5:D6) 95.38 1 3 110 ROUND(B9*0.2,2) 22 B9+C9 132 4 42.5 8.5 51 5 49.95 9.99 59.940000000000005 SUM(D9:D11) 242.94 800MM MERLYN IONIC SHOWERWALL PANEL VITRA WHITE FULL PEDESTAL LOMOND 400MM MATT STONE FLOORSTANDING UNIT SLIM 2 DOOR 400MM LOMOND SLIM RESIN BASIN ALDER MINI BASIN MIXER WITH WASTE WASTE VAT Total Price VITRA 55CM WHITE BASIN 1 TAP HOLE
+
+TERM: white
+42.94 800MM MERLYN IONIC SHOWERWALL PANEL VITRA WHITE FULL PEDESTAL LOMOND 400MM MATT STONE FLOORSTANDING UNIT SLIM 2 DOOR 400MM LOMOND SLIM RESIN BASIN ALDER MINI BASIN MIXER WITH WASTE WASTE VAT Total Price VITRA 55CM WHITE BASIN 1 TAP HOLE
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\MeetingWithBuilder_20220629\Discussion.docx
+==========================================================================================
+TERM: render
+: Internal foundation missing Missing lintels on inner/outer leaf above soil pipe In Progress: Incorrect cavity wall insulation used Cavity wall Insulation level not correct Incorrect blocks used on inner/outer leafs of rendered walls Parts of the DMP/DPC is incomplete/torn and will need repairing Some blockwork has missing mortar in joints which may compromise integrity of wall Incorrect use of wall ties around openings Unresolved: Stonework
+
+TERM: rendered
+: Internal foundation missing Missing lintels on inner/outer leaf above soil pipe In Progress: Incorrect cavity wall insulation used Cavity wall Insulation level not correct Incorrect blocks used on inner/outer leafs of rendered walls Parts of the DMP/DPC is incomplete/torn and will need repairing Some blockwork has missing mortar in joints which may compromise integrity of wall Incorrect use of wall ties around openings Unresolved: Stonework a
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\MeetingWithBuilder_20220629\Problems.docx
+==========================================================================================
+TERM: render
+: Internal foundation missing Missing lintels on inner/outer leaf above soil pipe In Progress: Incorrect cavity wall insulation used Cavity wall Insulation level not correct Incorrect blocks used on inner/outer leafs of rendered walls Unresolved: Stonework at back and front of house is not acceptable and needs removing 1sqm panel stonework to be built to include quoins and then agreed by architect 110 mm cavity on stone walls so that 80mm K10
+
+TERM: rendered
+: Internal foundation missing Missing lintels on inner/outer leaf above soil pipe In Progress: Incorrect cavity wall insulation used Cavity wall Insulation level not correct Incorrect blocks used on inner/outer leafs of rendered walls Unresolved: Stonework at back and front of house is not acceptable and needs removing 1sqm panel stonework to be built to include quoins and then agreed by architect 110 mm cavity on stone walls so that 80mm K108
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\SAP\UValueCalculations.xlsx
+==========================================================================================
+TERM: k rend
+(B5)-0.6*B5*B5,3) 0.71699999999999997 22 31 1/(1/C25+C22) 0.1181977191994424 21 W/mK Thickness mm m2K/W Internal Surface ( Rsi ) Plaster Skim Plasterboard Plaster Dabs Aerated Blocks Insulation (K108) Medium Density Block Render External Surface ( Rse ) Conductivity Thermal Resistance Total Thickness Total Thicknes Total Resistance U-Value (uncorrected) RT = Rsi+R+Rse U=1/RT W/m2K U-Value (corrected) U-Value Air Space Yorkstone Total Uo 0.05+
+
+TERM: render
+5)-0.6*B5*B5,3) 0.71699999999999997 22 31 1/(1/C25+C22) 0.1181977191994424 21 W/mK Thickness mm m2K/W Internal Surface ( Rsi ) Plaster Skim Plasterboard Plaster Dabs Aerated Blocks Insulation (K108) Medium Density Block Render External Surface ( Rse ) Conductivity Thermal Resistance Total Thickness Total Thicknes Total Resistance U-Value (uncorrected) RT = Rsi+R+Rse U=1/RT W/m2K U-Value (corrected) U-Value Air Space Yorkstone Total Uo 0.05+1.
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\SAP\DanWatt\WECE L1A Compliancy Report-Blandings.doc
+==========================================================================================
+TERM: ral
+d Loss Factor (kWh/24Hr) 1.637       Heating Manufacturer & Model must be provided  Boiler Fuel Gas Intergas  Boiler Efficiency 89.2% Compact HRE 30 SB  Secondary Heating Wood Burning Stove Hunter Herald Allure 04      Primary Heating Controls   Time and temperature zone control Heatmiser      Ventilation Strategy   Natural Ventilation with intermittent extract to wet rooms (      Low Zero Car
+
+TERM: ral
+89.2% Compact HRE 30 SB  Secondary Heating Wood Burning Stove Hunter Herald Allure 04      Primary Heating Controls   Time and temperature zone control Heatmiser      Ventilation Strategy   Natural Ventilation with intermittent extract to wet rooms (      Low Zero Carbon Technologies MCS Certificate must be provided  None   Section 2: As Built Developer’s Statement I confirm that the development has b
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\SAP\DanWatt\Blank-AD-L1A\WECE L1A Compliancy Report.doc
+==========================================================================================
+TERM: ral
+ovided  Boiler Fuel Gas   Boiler Efficiency 89.2%   Secondary Heating Wood Burning Stove       Primary Heating Controls   Time and temperature zone control       Ventilation Strategy   Natural Ventilation with intermittent extract to wet rooms       Low Zero Carbon Technologies MCS Certificate must be provided  None   Section 2: As Built Developer’s Statement I confirm that the development has be
+
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\WorkToDo\20240715.xlsx
+==========================================================================================
+TERM: colour
+70 41 42 43 44 45 46 47 48 49 50 51 71 53 54 64 56 63 58 62 60 84 85 83 94 95 90 91 92 Window Fitting Included Tiling Fitting Included Remove Window Fitting Cost Remove Tiling Fitting Cost Ochiltree Windows Front Door - Colour Front Door - Glass Panel Front Door - Side Panel Glass Front Door - Handles French Door - Handles Bay Windows - Handles Change Other Ground Floor Handles Ochiltree To Fit Tony Electtrician WC - Switch back on wall Garag
+
+TERM: colour
+te -Towel Rails Shed - ArmCo + Cat6 ?, Consumer Unit, Sockets, Lights, Switches Tiling Shay to Fit Choose Seperate Fitter Bathroom - Shower and Wall Tiles to Choose EnSuite - Shower and Wall Tiles to Choose Kitchen Plan Colour Cooker Extractor Fan Sink + Taps Dishwasher Fridge / Freezer Utility Style / Colour Use Existing Washer + Dryer Garage Ceiling Insulation - Type and Depth? Ceiling - Plasterboard and Skim Floor Paint Flooring - Ground F
+
+TERM: colour
+ng Shay to Fit Choose Seperate Fitter Bathroom - Shower and Wall Tiles to Choose EnSuite - Shower and Wall Tiles to Choose Kitchen Plan Colour Cooker Extractor Fan Sink + Taps Dishwasher Fridge / Freezer Utility Style / Colour Use Existing Washer + Dryer Garage Ceiling Insulation - Type and Depth? Ceiling - Plasterboard and Skim Floor Paint Flooring - Ground Floor Engineered Wood - Hall, WC, Snug, (Kitchen, Utility) Lounge - Carpet Kitchen? -
+
+==========================================================================================
+SKIPPED FILE SUMMARY
+==========================================================================================
+By file type:
+  .pdf       171
+
+By reason:
+  PDF extractor unavailable          171
+
+==========================================================================================
+FILES THAT COULD NOT BE READ
+==========================================================================================
+E:\OneDrive\WDLBlandings\ReBuild\AfterContractBreach\BuildingSueveyors\20230915\Originals\Schedule of Works - Blandings.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\AfterContractBreach\BuildingSueveyors\20230915\SentToQS\In-complete Works Report - Blandings.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\AfterContractBreach\BuildingSueveyors\20230915\SentToQS\Schedule of Works - Blandings.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\AfterContractBreach\BuildingSueveyors\20230915\WDLEditted\Schedule of Works - Blandings.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\AfterContractBreach\BuildingSueveyors\20230915\WDLEditted\Schedule of Works - Blandings_2.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\AfterContractBreach\BuildingSueveyors\20230915\WDLEditted\Schedule of Works - Blandings_3.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Asbestos\J068546 (1).pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Books\SELF BUILD HOME_ _.THE LAST THI - James Comrie.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\BorderStone\Broken.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\BorderStone\HSM.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\BorderStone\Unused.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\BuildingControl\Blandings Conditional Approval.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Certificates\AirTest\EAS-10414742-blandings-greencroft-avenue.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Certificates\Completion\BlandingsCompletionCertificate.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Certificates\Drains\BlandingsDrains.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Certificates\Electric\Building Regs Notification.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Certificates\Electric\NE455DW_Blandings_EIC182C_31450545.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Certificates\GasSafe\29326377_Notification_Certificate_Reprint_2025-06-13.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Certificates\HETAS\1726863.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Certificates\SAP\Blandings, Greencroft Avenue EPC.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Certificates\SAP\Blandings, Greencroft Avenue SAP.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Certificates\WaterCylinder\WaterCylinder.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\Maude_CCC pavilion Contract.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\Maude_Contract with AME.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\Simon_RIBA.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\JCT\jct1_building_contract_homeowner_no_consultant_v3\Enquiry Letter.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\JCT\jct1_building_contract_homeowner_no_consultant_v3\HOB.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\JCT\jct1_building_contract_homeowner_no_consultant_v3\HOB_1.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\JCT\jct1_building_contract_homeowner_no_consultant_v3\HOB_2.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\RDC\ContractComplete.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\RDC\HOB.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\RDC\Insurance\(1130472250) EL Certificate - Tradesman & Professionals Renewal Quote from Allianz.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\RDC\Insurance\(1130472255) Schedule - Tradesman & Professionals Renewal Quote from Allianz.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\RDC\Insurance\(1132642687) SME Renewal - Direct Debit.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\RDC\Insurance\(976174112) Employers liability - additional information request.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\RDC\Insurance\(976174119) ACOM3765_0919_Barclays_Complete_Contractor_Wording.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\RDC\Insurance\(976174122) ACOM3766_0919_Barclays_Complete_Contractor_Summary.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\RDC\Insurance\(976174127) ACOM3943_FINAL_DPA_ImportantInformation_201909.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\RDC\Insurance\ACOM8911_ Barclays Important Notice Complaints Update_1020.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\RDC\Insurance\BAR_9916151-1220_Lo.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Contracts\RIBA\Watermarked\RIBA-Domestic-Professional-Services-Contract-2018.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor1_Claire\OverPayment\ContractComplete.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor1_Claire\OverPayment\ContractDraftFull.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor1_Claire\OverPayment\ContractPages.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor1_Claire\OverPayment\Invoice_1107_from_R_D_C_Construction__Building_Ltd.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor1_Claire\OverPayment\Invoice_1111_from_R_D_C_Construction__Building_Ltd.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor1_Claire\OverPayment\Invoice_1117_from_R_D_C_Construction__Building_Ltd.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor1_Claire\OverPayment\Invoice_1124_from_R_D_C_Construction__Building_Ltd.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor1_Claire\OverPayment\Invoice_1129_from_R_D_C_Construction__Building_Ltd.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Dispute\Solicitor1_Claire\OverPayment\Invoice_1133_from_R_D_C_Construction__Building_Ltd.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Donaldson\C20760AC - - Roof Layouts - PRINT.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Donaldson\P10901AA - Posi Joist Layout - Prelim.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Drains\DS\20230721.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Electricity\1180_Blandings_1.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Electricity\1180_Blandings_2.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Electricity\1180_Blandings_K.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Estimates\Asbestos\SGS\Blandings Asbestos Survey Quote 030 May 2020.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Estimates\Jewsons\First Floor.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Estimates\Jewsons\I Joist Quote-Sets.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Estimates\Jewsons\BuildAviator\BUILDER-2001-1709-5835 BuildersReport.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Estimates\Jewsons\BuildAviator\CLIENT-2001-1709-5835 ClientReport.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\FloorPlans\16_03738_FUL-CHESTNUT_WORKING_DRAWING-701773.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\FloorPlans\177221-hl-oxford-efoxfddm3-a.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\FloorPlans\39JamesonDrive_1.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\FloorPlans\39JamesonDrive_2.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\FloorPlans\Downham.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\FloorPlans\Floorplans-all-floors9.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\FloorPlans\marlow.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\FloorPlans\Redrow_Sunningdale.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\FloorPlans\sunningdale-efsunddm60_2.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\InvoicesAndEstimates\Doonan\2318.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\InvoicesAndEstimates\Doonan\L-01-Larman Blandings.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200507\1180 NH-P01 Rev A  GF FF.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200513\1180 NH-P01 GF FF Rev J.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200513\1180 NH-P02 EE Rev D.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200518\1180 NH-P01 Rev K GF FF.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200518\1180 NH-P02 Rev E EE.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200521\1180 NH-PA01 GF FF.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200521\1180 NH-PA02 EE R.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200521\1180 NH-PA03 BP.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200522\1180 NH-PA01 GF FF.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200522\1180 NH-PA02 EE R.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200522\1180 NH-PA03 BP.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200526\1180 NH-PA01 Rev A  GF FF.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200526\1180 NH-PA02 Rev A EE R.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200602\1180 NH-PA01 Rev B  GF FF.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200602\1180 NH-PA01 Rev C  GF FF.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200602\1180 NH-PA02 Rev B EE R.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200602\1180 NH-PA02 Rev C EE R.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200608\134-20-001.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200701\1180 NH-PP201 GF FF.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200701\1180 NH-PP202 EE.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200701\1180 NH-PP203 BP.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200714\1180 Construction Notes.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200714\1180.C1.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200714\1180.C2.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200714\1180.C3.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200714\1180.C4.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200714\134-20-001_02.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200714\134-20-002_01.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200714\BMC proposed structural stud detail.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200720\AD L1A 2014 Compliancy Report.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200720\Part G 17 k Compliancy - Blandings.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200904\1180 Z1 - Planning with new wall positions.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200904\1180 Z2 - Building regs with new wall positions.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200923\1180 Z1 Rev A- Planning with new wall positions.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200923\1180 Z2 Rev A- Building regs with new wall positions.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20200923\1180 Z3 - Setting out plan.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20201218\1180 C1 Rev A.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20201218\1180 C2 Rev A.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20201218\1180 C3 Rev A.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20201218\1180 C4 Rev A.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20201218\1180 Construction Notes Rev A.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20201218\134-20-001_03.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20201218\134-20-002_02.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20201218\134-20-01-Structural Calculation Pack.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20201218\AD L1A 2014 Compliancy Report.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20201218\AppPreview_357924_181220023820.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20210127\1180 C1 Rev B.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20210127\1180 C2 Rev A.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20210127\1180 C3 Rev A.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20210127\1180 C4 Rev A.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20210127\1180 Construction Notes Rev A.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20210127\134-20-001_03.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20210127\134-20-002_02.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20210127\134-20-01-Structural Calculation Pack.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20210127\AD L1A 2014 Compliancy Report.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKate\20210127\AppPreview_357924_181220023820.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\FromKevin\20210817\134-20-001_04.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kate\ToKate\20190123\Redrow_Sunningdale.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kitchen\JTDove\1\Perspective drawing - U-Shape.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kitchen\JTDove\1\Perspective drawing-1.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kitchen\JTDove\1\Perspective drawing-2.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kitchen\JTDove\1\Perspective drawing-b.fast bar.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kitchen\JTDove\2\Perspective drawing-1.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kitchen\JTDove\2\Perspective drawing-2.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kitchen\JTDove\2\Perspective drawing-3.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kitchen\MatthewCharlton\2\K8 document Quotation-00446594.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Kitchen\MatthewCharlton\2\K8 document Quotation-00446595.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\OpenReach\Move_NetherElms\INV777373.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\OtherFloorPlans\Crofts\20_00291_DISCON-FLOOR_PLANS__FIRST__-_PROPOSED-1563442.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\OtherFloorPlans\Crofts\20_00291_DISCON-FLOOR_PLANS__GROUND__-_PROPOSED-1563441.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\OtherFloorPlans\Crofts\20_00291_DISCON-SCHEDULE_OF_CONDITIONS-1563393.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Peter\FromPeter\20190225\1180_NH-P01 GF FF.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Peter\FromPeter\20190314\1180 NH-P01 GF FF Rev A.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Peter\FromPeter\20190423\1180 NH-P01 GF FF Rev B.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Peter\FromPeter\20190423\1180 NH-P02 EE.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Peter\FromPeter\20190424\1180 NH-P01 GF FF Rev C.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Peter\FromPeter\20190426\1180 NH-P03 EE options.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Peter\FromPeter\20190711\1180 NH-P01 GF FF Rev D.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Peter\FromPeter\20190711\1180 NH-P02 EE RevA.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Peter\FromPeter\20191107\1180 NH-P01 GF FF.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Peter\FromPeter\20191107\1180 NH-P02 EE.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Peter\FromPeter\20191127\-1180 NH-P02 EE RevB.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\Peter\FromPeter\20191127\1180 NH-P01 GF FF Rev F.PDF
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\ProjectLibre\Build-schedule.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\SAP\EPC form - Bill Larman (002).pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\SAP\mhf-100-e1-01-insulated-steel-lintel.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\SAP\AlexBrannan\Blandings.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\SAP\AlexBrannan\EPC - Blandings.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\SAP\DanWatt\Blandings, Greencroft Avenue EPC.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\SAP\DanWatt\Blandings, Greencroft Avenue SAP.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\SAP\UValue\InsuliteBlock.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\SAP\UValue\K108.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\SAP\UValue\KinspanWallUValue.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\SAP\UValue\ThermaliteAircreteShield.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\SSE-Dispute\6 Hackwood Glade - Inventory.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\SSE-Dispute\Bulb-2021-04-08-to-2021-05-08.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\StoneAndRender\UnderConstruction.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\StructuralEngineer\FloorSlab\134-20-003.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
+E:\OneDrive\WDLBlandings\ReBuild\WDL\20190227\Blandings_1001_2.pdf
+  PDF support requires pdftotext.exe. Word PDF conversion is deliberately not used because it can hang on individual PDFs.
+
